@@ -1,0 +1,28 @@
+
+people below you get a diploma :
+
+STUDENT_NAME	STUDENT_NO.	SUBJECT_A	SUBJECT_B
+JOAN		1		70.5		85
+TANIA		2		89.5		75
+TOM		3		53		54
+SUSAN		5		89		90
+KATHY		6		99		55
+
+The original file sorted in ascending order according to subject A below :
+
+STUDENT_NAME	STUDENT_NO.	SUBJECT_A	SUBJECT_B
+RAYMOND		7		22.5		75
+TOM		3		53		54
+JOAN		1		70.5		85
+JEFF		4		80		49.5
+SUSAN		5		89		90
+TANIA		2		89.5		75
+KATHY		6		99		55
+
+average of subject A is 71.928571
+average of subject B is 69.071429
+
+
+SD of subject A is 22.873878
+SD of subject B is 13.938321
+
